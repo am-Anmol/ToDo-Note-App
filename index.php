@@ -73,7 +73,7 @@ else{
   <link rel="stylesheet" href="//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
 
 
-  <title>iNotes - Notes taking made easy</title>
+  <title>ToDo App</title>
 
 </head>
 
@@ -114,7 +114,7 @@ else{
   </div>
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="#"><img src="/crud/logo.svg" height="28px" alt=""></a>
+    <a class="navbar-brand" href="#"><img src="img/logo.svg" height="30px" alt=""></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -133,10 +133,7 @@ else{
         </li>
 
       </ul>
-      <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-      </form>
+      
     </div>
   </nav>
 
@@ -171,7 +168,7 @@ else{
   }
   ?>
   <div class="container my-4">
-    <h2>Add a Note to iNotes</h2>
+    <h2>Add a Note to ToDo Notes</h2>
     <form action="index.php" method="POST">
       <div class="form-group">
         <label for="title">Note Title</label>
