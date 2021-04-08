@@ -7,4 +7,4 @@
 
 ## ScreenShots:
 <h4> Home Page <br> </h4>
-<img src="img/main.jpg" alt="Loading ... Wait">
+<img src="img/main.JPG" alt="Loading ... Wait">
